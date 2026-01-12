@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme (Compose compatible) -->
+    <style name="Theme.MovieDiscoveryApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- No colorPrimaryVariant etc -->
+    </style>
+
+</resources>
